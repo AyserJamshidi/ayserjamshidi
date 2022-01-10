@@ -1,6 +1,4 @@
-### Hi everyone, I'm Ayser
-
-***
+# <p align="center">Hi everyone, I'm Ayser Jamshidi!</p>
 
 ### I'm a Developer and a Senior CS Student at [Temple University][temple_website]! I'm also...
 - 👩‍💻 Actively working on [OutOfStonk][outofstonk_repo] - a program built on Java and PHP using frameworks like Selenium, BootStrap and more.
