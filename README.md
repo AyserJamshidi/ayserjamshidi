@@ -3,7 +3,6 @@
 ### I'm a Developer and a Senior CS Student at [Temple University][temple_website]! I'm also...
 - 👩‍💻 Actively working on [OutOfStonk][outofstonk_repo] - a program built on Java and PHP using frameworks like Selenium, BootStrap and more.
 - 📚 Currently learning... everything 🤣
-<!-- - 💬 -->
 - 🎈 Fun fact: I have the [world record score][3dmark_myscore] on [3DMark's TimeSpy][3dmark_general] leaderboard for every computer system that contain a 5900H processor and a 3070 mobile graphics chip.
 - ⚡ 2022 Goals: Graduate with at least a 3.8 and to successfully publish OutOfStonk on all possible channels (Its own website, Discord, etc.).
 
