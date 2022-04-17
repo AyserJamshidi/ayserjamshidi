@@ -6,7 +6,7 @@
 - ❓ Thinking about how to create a fun and engaging YouTube video revolving around game hacking, memory viewing, multi-level pointers and Assembly instruction overriding/code cave redirects...
 - 🎈 Fun fact: I have the [world record score][3dmark_myscore] on [3DMark's TimeSpy][3dmark_general] leaderboard for every computer system that contains a 5900HS processor and a 3070 mobile graphics chip.
 - ⚡ 2022 Goals: ~~Earn an internship where I can make a difference in the world,~~ Graduate with at least a 3.8 and to successfully publish OutOfStonk on all possible channels (Its own website, Discord, chrome extension, ...).
-- 
+
 ***
 
 <!-- ### Languages and Tools that I enjoy using -->
